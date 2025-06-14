@@ -22,6 +22,12 @@ const thai = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+### <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="50"> My Stats...  
+<div align="center"> 
+<img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ramadugu&theme=dark&hide_border=false" alt="himabindughn" />
+
+</div>
 <p align="center">
         <img src="https://github.com/arpit-garg-01/arpit-garg-01/blob/master/Bottom.svg" alt="Github Stats" />
 </p>
