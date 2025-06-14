@@ -1,6 +1,10 @@
-<h2> Hi, I'm Thai Himabindu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
-<img width="44%" align="right" alt="Github" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" />
+<img src="https://github.com/himabindughn/himabindughn/blob/main/banner.png" width="105%" height="auto">
+
+<h2> Hi, I'm Himabindu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+
+<img width="44%" align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" />
+
 <p><em>Data Analyst and QA Lead at Citi <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
